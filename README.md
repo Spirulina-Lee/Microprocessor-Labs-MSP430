@@ -30,6 +30,9 @@ To use this code, ensure you have access to:
 ```bash
 git clone https://github.com/your-username/Microprocessor-Labs-MSP430.git](https://github.com/Spirulina-Lee/Microprocessor-Labs-MSP430.git
 ```
+或点击`code`再点击`Download Zip`即可不依赖Git环境下载全部资源  
+
+> ***可能需要科学的网络环境***
 
 ### Running Code 运行代码
 - Import the project into Code Composer Studio.
