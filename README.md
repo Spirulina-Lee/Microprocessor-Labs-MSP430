@@ -29,7 +29,7 @@ To use this code, ensure you have access to:
 ### Cloning the Repository 克隆仓库
 - 通过Git在命令行输入以下内容
 ```bash
-git clone https://github.com/your-username/Microprocessor-Labs-MSP430.git](https://github.com/Spirulina-Lee/Microprocessor-Labs-MSP430.git
+git clone https://github.com/Spirulina-Lee/Microprocessor-Labs-MSP430-EE215.git
 ```
 - 或点击`code`再点击`Download Zip`即可不依赖Git环境下载全部资源  
 
