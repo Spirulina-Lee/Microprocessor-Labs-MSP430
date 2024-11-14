@@ -27,17 +27,18 @@ To use this code, ensure you have access to:
   或其他兼容 MSP430 编程的 IDE
 
 ### Cloning the Repository 克隆仓库
+- 通过Git在命令行输入以下内容
 ```bash
 git clone https://github.com/your-username/Microprocessor-Labs-MSP430.git](https://github.com/Spirulina-Lee/Microprocessor-Labs-MSP430.git
 ```
-或点击`code`再点击`Download Zip`即可不依赖Git环境下载全部资源  
+- 或点击`code`再点击`Download Zip`即可不依赖Git环境下载全部资源  
 
 > ***可能需要科学的网络环境***
 
 ### Running Code 运行代码
-- Import the project into Code Composer Studio.
+1. Import the project into Code Composer Studio.
 将项目导入 Code Composer Studio。
-- Build and upload the code to the MSP430 board.
+2. Build and upload the code to the MSP430 board.
 编译并上传代码到 MSP430 开发板。
-- Follow the instructions in each lab report for specific setup and testing procedures.
+3. Follow the instructions in each lab report for specific setup and testing procedures.
 根据每个实验报告中的说明进行特定的设置和测试。
