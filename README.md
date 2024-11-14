@@ -2,8 +2,8 @@
 > **Course 课程**: EE215  
 > **University 大学**: Northern Arizona University 
 
-This repository contains the labs, assignments, and past final exam papers for review in the EE280 course, focusing on programming and interfacing with the MSP430 microcontroller.  
-本仓库包含 EE280 课程的实验、作业和往年期末考试卷子，用于复习，重点是编程和 MSP430 微控制器的接口设计。
+This repository contains the labs, assignments, and past final exam papers for review in the EE215 course, focusing on programming and interfacing with the MSP430 microcontroller.  
+本仓库包含 EE215 课程的实验、作业和往年期末考试卷子，用于复习，重点是编程和 MSP430 微控制器的接口设计。
 
 ## Repository Structure 仓库结构
 - **Code 代码**: Contains all source code for lab exercises and assignments.  
