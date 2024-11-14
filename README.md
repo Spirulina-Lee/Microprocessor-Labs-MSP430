@@ -1,5 +1,5 @@
 # Microprocessor Labs - MSP430
-> **Course 课程**: EE280  
+> **Course 课程**: EE215  
 > **University 大学**: Northern Arizona University 
 
 This repository contains the labs, assignments, and past final exam papers for review in the EE280 course, focusing on programming and interfacing with the MSP430 microcontroller.  
